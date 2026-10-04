@@ -57,6 +57,7 @@ Take it if you want it.
 - [Sunburst](https://github.com/robvagin/sunburst) · a hierarchy as a 3D sunburst with height
 - [Voronoi](https://github.com/robvagin/voronoi) · points that share space as cells, inside any shape
 - [Image Shuffler](https://github.com/robvagin/image-shuffler) · your screens flying in 3D, ready to record as a video
+- [Pack Label](https://github.com/robvagin/pack-label) · one label per coffee lot, checked and ready for print
 
 ## License
 
